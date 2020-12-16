@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NETPresentation_DataAccessExamples", "ADO.NETPresentation_DataAccessExamples\ADO.NETPresentation_DataAccessExamples.csproj", "{A7247EA4-69F0-480C-9FA6-24FC104D5A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7247EA4-69F0-480C-9FA6-24FC104D5A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7247EA4-69F0-480C-9FA6-24FC104D5A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7247EA4-69F0-480C-9FA6-24FC104D5A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7247EA4-69F0-480C-9FA6-24FC104D5A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9B2E2F-E376-4EE4-B2E5-BF5F850E43A6}
+	EndGlobalSection
+EndGlobal
