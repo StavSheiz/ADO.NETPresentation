@@ -31,6 +31,8 @@ namespace ADO.NETPresentation_DataAccessExamples
 7. NonQuery stored procedure
 8. NonQuery insert transactions
 9. Disconnected fill and update
+
+0. Exit
 ";
 
             Console.WriteLine("Choose Example:");
